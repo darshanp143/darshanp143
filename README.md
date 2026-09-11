@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=darshanp14&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -101,11 +101,11 @@ An intelligent college-assistance application designed to provide useful academi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshanp14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanp14&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -115,7 +115,7 @@ An intelligent college-assistance application designed to provide useful academi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=darshanp143&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -125,7 +125,7 @@ An intelligent college-assistance application designed to provide useful academi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"
+<img src="https://raw.githubusercontent.com/darshanp143/darshanp143/output/github-snake-dark.svg"
 alt="GitHub Contribution Snake">
 
 </div>
