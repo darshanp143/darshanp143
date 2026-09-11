@@ -80,25 +80,22 @@ A cybersecurity lab project for passive operating-system fingerprinting using IP
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=darshanp143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanp143&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=darshanp143&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/darshanp143/darshanp143/output/github-snake-dark.svg"
+alt="GitHub Contribution Snake">
 
 </div>
 ---
