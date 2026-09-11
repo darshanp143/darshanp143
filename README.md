@@ -90,15 +90,6 @@ A cybersecurity lab project for passive operating-system fingerprinting using IP
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/darshanp143/darshanp143/output/github-snake-dark.svg"
-alt="GitHub Contribution Snake">
-
-</div>
----
 
 ## 🐍 Contribution Activity
 
