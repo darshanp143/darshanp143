@@ -101,11 +101,11 @@ An intelligent college-assistance application designed to provide useful academi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshanp14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshanp143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanp14&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanp143&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
