@@ -84,11 +84,11 @@ A cybersecurity lab project for passive operating-system fingerprinting using IP
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=darshanp143&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshanp143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshanp143&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanp143&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -101,7 +101,6 @@ A cybersecurity lab project for passive operating-system fingerprinting using IP
 <img src="https://streak-stats.demolab.com?user=darshanp143&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
