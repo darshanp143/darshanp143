@@ -123,47 +123,12 @@ An intelligent college-assistance application designed to provide useful academi
 
 ## 🐍 Contribution Activity
 
+<div align="center">
 
-### 🔥 I would make these 5 changes especially
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"
+alt="GitHub Contribution Snake">
 
-**1. Change the positioning**
-
-Instead of:
-
-> Computer Science Engineering Student | AI/ML Enthusiast
-
-Use:
-
-> **Cyber Security Student | Python Developer | Network Security Enthusiast**
-
-That matches the projects you've actually been building.
-
-**2. Don't overuse AI/ML**
-
-Keep AI/ML as a secondary skill. Your strongest portfolio direction is currently:
-
-**Cyber Security → Networking → Python → Web/Streamlit → Cloud**
-
-**3. Replace fake/generic projects with your actual projects**
-
-Your **IPv6 OS Fingerprinting Lab** should definitely be featured. Your other real projects should replace the placeholder project descriptions.
-
-**4. Remove the large skill percentages**
-
-The `90% / 85% / 80%` bars can look somewhat arbitrary to recruiters. I would actually **remove that section** from the final version and use a clean "Current Focus" section instead.
-
-**5. Use your new professional photo**
-
-The cybersecurity portrait we just created fits this branding much better than a generic avatar.
-
----
-
-### ⚠️ One important thing
-
-Replace every:
-
-```text
-YOUR_GITHUB_USERNAME
+</div>
 
 ---
 
