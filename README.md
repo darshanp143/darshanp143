@@ -1,63 +1,143 @@
+<div align="center">
+
 # 👋 Hi, I'm Darshan Patil
 
-🎓 Computer Science (Cyber Security) Student
-🔐 Cyber Security Enthusiast
-🐍 Python Developer
-🌐 Web Development & UI/UX
-📊 Data & Automation
+### Cyber Security Student | Python Developer | Network Security Enthusiast
 
-I enjoy building practical projects at the intersection of **cyber security, software development, and technology**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Security+%7C+Python+%7C+Networking;Building+Practical+Security+Projects;Learning+%7C+Building+%7C+Securing" />
 
-## 🚀 About Me
+<br>
 
-* 🔐 Interested in Cyber Security, Networking & Ethical Hacking
-* 🐍 Building security tools and automation with Python
-* 🌐 Developing web applications and interfaces
-* 📡 Exploring network analysis and security
-* 📚 Continuously learning new technologies
-* 💡 Interested in turning ideas into practical projects
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 Computer Science (Cyber Security) Student passionate about building practical technology and security solutions.
+
+- 🔐 Interested in Cyber Security, Network Security & Ethical Hacking
+- 🐍 Building security tools and automation with Python
+- 📡 Exploring networking, packet analysis and traffic intelligence
+- 🌐 Developing web applications and interactive dashboards
+- 🧪 Working with PCAP, Scapy and network-analysis workflows
+- ☁️ Exploring Cloud & Infrastructure Security
+- 🚀 Focused on learning by building real-world projects
+
+> **Build. Learn. Secure. Repeat.**
+
+---
 
 ## 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 
-`Python` `C` `C++` `JavaScript` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,sql" />
+</p>
 
-### Cyber Security
+### 🔐 Cyber Security & Networking
 
-`Kali Linux` `Wireshark` `Nmap` `Scapy` `Networking` `OSINT`
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>
 
-### Web Development
+`Scapy` `Wireshark` `Nmap` `PCAP Analysis` `IPv4/IPv6` `TCP/IP`
 
-`HTML` `CSS` `JavaScript` `Streamlit`
+### 🌐 Web Development
 
-### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,streamlit" />
+</p>
 
-`Git` `GitHub` `VS Code` `Linux` `Google Cloud`
+### ☁️ Cloud & Tools
 
-## 🔥 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔐 IPv6 OS Fingerprinting Lab
 
-Passive IPv6 operating-system fingerprinting from PCAP network traffic.
+Passive operating-system fingerprinting from IPv6 network traffic and PCAP files.
 
-**Tech:** Python · Scapy · IPv6 · ICMPv6 · Streamlit · PCAP
+**Highlights**
 
-### 🌐 Cyber Security Projects
+- 📡 IPv6 / ICMPv6 packet analysis
+- 🔎 OS fingerprint classification
+- 📂 PCAP file processing
+- 🐍 Python + Scapy implementation
+- 📊 Interactive Streamlit dashboard
 
-Practical security and networking projects focused on learning through implementation.
+**Technologies:**  
+`Python` `Scapy` `IPv6` `ICMPv6` `PCAP` `Streamlit`
 
-### 💻 Web Development Projects
+---
 
-Responsive web applications and interfaces focused on usability and clean design.
+### 🛡️ Network Security & Threat Detection
 
-## 📈 Current Focus
+Practical cybersecurity experiments focused on network traffic analysis, anomaly detection and security monitoring.
 
-* Advanced Networking
-* Cyber Security
-* Python Security Automation
-* Network Traffic Analysis
-* Cloud & Infrastructure Security
-* Full-Stack Development
+**Technologies:**  
+`Python` `Networking` `Packet Analysis` `Machine Learning`
 
-⭐ *I believe the best way to learn technology is to build with it.*
+---
+
+### 🤖 AI College Assistant
+
+An intelligent college-assistance application designed to provide useful academic information through an interactive interface.
+
+**Technologies:**  
+`Python` `AI` `NLP` `Streamlit` `Data Processing`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"
+alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Cyber Security        ███████████████████░ 90%
+Python Development    ██████████████████░░ 85%
+Networking             █████████████████░░░ 80%
+Web Development       ████████████████░░░░ 75%
+Cloud Security        █████████████░░░░░░░ 65%
+Machine Learning      ████████████░░░░░░░░ 60%
