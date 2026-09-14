@@ -124,7 +124,7 @@ alt="GitHub Contribution Snake">
 
 <div align="center">
 
-<a href="https://github.com/darshanp143.">
+<a href="https://github.com/darshanp143">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
