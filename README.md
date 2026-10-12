@@ -87,19 +87,6 @@ A cybersecurity lab project for passive operating-system fingerprinting using IP
 <img src="https://streak-stats.demolab.com?user=darshanp143&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/darshanp143/darshanp143/output/github-snake-dark.svg"
-alt="GitHub Contribution Snake">
-
-</div>
-
 ---
 
 ## 🎯 Current Focus
