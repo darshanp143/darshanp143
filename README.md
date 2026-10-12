@@ -8,11 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=darshanp143&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -87,8 +83,6 @@ A cybersecurity lab project for passive operating-system fingerprinting using IP
 <img src="https://streak-stats.demolab.com?user=darshanp143&theme=tokyonight&hide_border=true" />
 
 </div>
----
-
 ## 🎯 Current Focus
 
 - 🔐 Cyber Security & Network Security
